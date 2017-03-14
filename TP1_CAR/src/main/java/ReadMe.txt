@@ -2,8 +2,6 @@
 
         TP 1 : Implémentation d'un serveur FTP en Java
 
-Binome : Ilias Afrass et Anas Taibi.
-
 
 I) Introduction
 
