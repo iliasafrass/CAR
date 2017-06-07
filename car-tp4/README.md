@@ -1,6 +1,6 @@
 ## TP4 - Book library
 
-Binome : Afrass ilias & Taibi Anas
+Binome : Afrass ilias
 
 
 This project is a lightweight and easy-to-use skeleton to create a JEE application that uses [Apache TomEE](http://openejb.apache.org/apache-tomee.html), a complete JEE server based on Tomcat.
